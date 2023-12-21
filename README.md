@@ -74,10 +74,27 @@ The CPU runtime shows a linear relationship, approximately Time = Number of Pixe
 
 **origional**
 <p align=left>
-    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/sourceCode/Test4.png" width="400" height="300"/>
+    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/ImageResources/test5.jpg" width="250" height="300"/>
 </p>
 
 **result**
 <p align=left>
-    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/sourceCode/Test4_out.png" width="400" height="300"/>
+    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/ImageResources/test5_out.png" width="250" height="300"/>
 </p>
+
+#### Multiple objects
+
+**origional**
+<p align=left>
+    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/sourceCode/Test3.png" width="250" height="300"/>
+</p>
+
+**result**
+<p align=left>
+    <img src="https://github.com/Noshin03/ClusterVision--CUDA-Multi-threaded-Image-Analysis/blob/main/ImageResources/test6%20result.png" width="250" height="300"/>
+</p>
+
+The algorithm doesn’t work well with low color contrast objects due to the random and limited optimization of k-means.
+
+More details please refer to the report.pdf file
+
